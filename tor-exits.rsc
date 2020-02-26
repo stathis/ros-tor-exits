@@ -2,7 +2,7 @@
 # TOR-EXIT List for RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Wed, 26 Feb 2020 17:58:40 +0200
+# Generation: Wed, 26 Feb 2020 18:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=103.15.29.151
