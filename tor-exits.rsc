@@ -2,7 +2,7 @@
 # TOR-EXIT List for RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Wed, 26 Feb 2020 18:00:01 +0200
+# Generation: Wed, 26 Feb 2020 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=103.15.29.151
@@ -39,6 +39,7 @@ add list=__TOR_EXIT address=104.244.76.13
 add list=__TOR_EXIT address=104.244.76.142
 add list=__TOR_EXIT address=104.244.76.189
 add list=__TOR_EXIT address=104.244.76.190
+add list=__TOR_EXIT address=104.244.76.245
 add list=__TOR_EXIT address=104.244.76.56
 add list=__TOR_EXIT address=104.244.77.199
 add list=__TOR_EXIT address=104.244.78.231
@@ -443,6 +444,7 @@ add list=__TOR_EXIT address=191.114.30.58
 add list=__TOR_EXIT address=191.114.55.104
 add list=__TOR_EXIT address=191.114.63.175
 add list=__TOR_EXIT address=191.114.79.212
+add list=__TOR_EXIT address=191.114.8.83
 add list=__TOR_EXIT address=191.114.86.21
 add list=__TOR_EXIT address=191.114.89.176
 add list=__TOR_EXIT address=191.114.9.124
