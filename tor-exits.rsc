@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Wed, 25 Mar 2020 20:00:01 +0200
+# Generation: Thu, 26 Mar 2020 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=23.129.64.184
@@ -581,6 +581,7 @@ add list=__TOR_EXIT address=89.163.143.8
 add list=__TOR_EXIT address=87.118.110.27
 add list=__TOR_EXIT address=185.225.69.60
 add list=__TOR_EXIT address=91.244.181.85
+add list=__TOR_EXIT address=191.114.87.213
 add list=__TOR_EXIT address=191.114.99.42
 add list=__TOR_EXIT address=191.114.100.236
 add list=__TOR_EXIT address=191.114.87.207
@@ -697,6 +698,7 @@ add list=__TOR_EXIT address=95.142.161.63
 add list=__TOR_EXIT address=198.98.50.201
 add list=__TOR_EXIT address=51.77.52.216
 add list=__TOR_EXIT address=185.220.101.48
+add list=__TOR_EXIT address=46.246.42.84
 add list=__TOR_EXIT address=46.246.38.109
 add list=__TOR_EXIT address=46.246.39.17
 add list=__TOR_EXIT address=46.246.45.211
@@ -1176,6 +1178,7 @@ add list=__TOR_EXIT address=51.15.106.64
 add list=__TOR_EXIT address=107.189.11.80
 add list=__TOR_EXIT address=31.13.195.39
 add list=__TOR_EXIT address=109.248.11.157
+add list=__TOR_EXIT address=83.135.202.236
 add list=__TOR_EXIT address=89.245.93.112
 add list=__TOR_EXIT address=89.246.119.74
 add list=__TOR_EXIT address=109.250.156.9
@@ -1385,6 +1388,7 @@ add list=__TOR_EXIT address=209.141.46.76
 add list=__TOR_EXIT address=205.185.126.78
 add list=__TOR_EXIT address=142.93.157.201
 add list=__TOR_EXIT address=205.185.126.15
+add list=__TOR_EXIT address=95.203.162.127
 add list=__TOR_EXIT address=95.197.113.30
 add list=__TOR_EXIT address=95.203.129.182
 add list=__TOR_EXIT address=45.81.233.53
@@ -1434,4 +1438,7 @@ add list=__TOR_EXIT address=72.182.200.174
 add list=__TOR_EXIT address=45.138.72.221
 add list=__TOR_EXIT address=178.17.171.225
 add list=__TOR_EXIT address=178.175.138.58
+add list=__TOR_EXIT address=185.10.68.217
+add list=__TOR_EXIT address=153.122.55.134
+add list=__TOR_EXIT address=157.230.116.190
 
