@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Tue, 25 May 2021 20:00:01 +0300
+# Generation: Wed, 26 May 2021 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -352,6 +352,7 @@ add list=__TOR_EXIT address=71.174.105.126
 add list=__TOR_EXIT address=104.244.72.115
 add list=__TOR_EXIT address=109.70.100.47
 add list=__TOR_EXIT address=109.70.100.48
+add list=__TOR_EXIT address=176.123.5.250
 add list=__TOR_EXIT address=217.170.205.14
 add list=__TOR_EXIT address=199.195.250.77
 add list=__TOR_EXIT address=77.247.181.165
@@ -576,6 +577,7 @@ add list=__TOR_EXIT address=198.98.50.112
 add list=__TOR_EXIT address=37.228.129.5
 add list=__TOR_EXIT address=45.79.144.222
 add list=__TOR_EXIT address=204.17.56.42
+add list=__TOR_EXIT address=189.131.239.113
 add list=__TOR_EXIT address=189.132.28.177
 add list=__TOR_EXIT address=189.131.232.87
 add list=__TOR_EXIT address=5.2.78.69
@@ -869,6 +871,7 @@ add list=__TOR_EXIT address=104.244.79.172
 add list=__TOR_EXIT address=87.120.254.114
 add list=__TOR_EXIT address=192.195.80.10
 add list=__TOR_EXIT address=95.214.235.160
+add list=__TOR_EXIT address=198.167.206.238
 add list=__TOR_EXIT address=198.167.206.132
 add list=__TOR_EXIT address=198.167.206.253
 add list=__TOR_EXIT address=198.167.206.207
@@ -1023,4 +1026,15 @@ add list=__TOR_EXIT address=23.236.146.180
 add list=__TOR_EXIT address=173.237.206.68
 add list=__TOR_EXIT address=144.168.164.26
 add list=__TOR_EXIT address=51.75.78.52
+add list=__TOR_EXIT address=18.135.16.76
+add list=__TOR_EXIT address=176.123.5.150
+add list=__TOR_EXIT address=91.219.62.163
+add list=__TOR_EXIT address=185.247.116.208
+add list=__TOR_EXIT address=185.155.96.44
+add list=__TOR_EXIT address=209.161.246.14
+add list=__TOR_EXIT address=185.107.70.202
+add list=__TOR_EXIT address=204.27.60.147
+add list=__TOR_EXIT address=185.107.47.171
+add list=__TOR_EXIT address=145.239.87.39
+add list=__TOR_EXIT address=198.98.61.220
 
