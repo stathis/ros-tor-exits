@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Fri, 28 May 2021 20:00:01 +0300
+# Generation: Sat, 29 May 2021 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -257,6 +257,7 @@ add list=__TOR_EXIT address=185.220.101.142
 add list=__TOR_EXIT address=185.100.87.41
 add list=__TOR_EXIT address=188.214.104.146
 add list=__TOR_EXIT address=162.247.74.200
+add list=__TOR_EXIT address=162.247.73.192
 add list=__TOR_EXIT address=195.254.134.194
 add list=__TOR_EXIT address=185.220.100.240
 add list=__TOR_EXIT address=5.2.79.179
@@ -577,6 +578,7 @@ add list=__TOR_EXIT address=198.98.50.112
 add list=__TOR_EXIT address=37.228.129.5
 add list=__TOR_EXIT address=45.79.144.222
 add list=__TOR_EXIT address=204.17.56.42
+add list=__TOR_EXIT address=189.132.15.116
 add list=__TOR_EXIT address=189.131.239.113
 add list=__TOR_EXIT address=189.132.28.177
 add list=__TOR_EXIT address=189.131.232.87
@@ -873,6 +875,7 @@ add list=__TOR_EXIT address=104.244.79.172
 add list=__TOR_EXIT address=87.120.254.114
 add list=__TOR_EXIT address=192.195.80.10
 add list=__TOR_EXIT address=95.214.235.160
+add list=__TOR_EXIT address=198.167.206.215
 add list=__TOR_EXIT address=198.167.206.151
 add list=__TOR_EXIT address=198.167.206.224
 add list=__TOR_EXIT address=198.167.206.238
@@ -1050,6 +1053,7 @@ add list=__TOR_EXIT address=195.123.246.178
 add list=__TOR_EXIT address=5.2.67.226
 add list=__TOR_EXIT address=176.123.5.160
 add list=__TOR_EXIT address=198.251.83.203
+add list=__TOR_EXIT address=86.128.31.69
 add list=__TOR_EXIT address=86.189.240.63
 add list=__TOR_EXIT address=91.234.99.189
 add list=__TOR_EXIT address=5.2.69.9
@@ -1064,6 +1068,7 @@ add list=__TOR_EXIT address=185.100.87.73
 add list=__TOR_EXIT address=18.162.54.226
 add list=__TOR_EXIT address=167.99.114.246
 add list=__TOR_EXIT address=37.187.54.66
+add list=__TOR_EXIT address=87.123.48.88
 add list=__TOR_EXIT address=87.123.54.9
 add list=__TOR_EXIT address=45.137.184.31
 
