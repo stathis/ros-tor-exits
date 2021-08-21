@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Fri, 20 Aug 2021 20:00:01 +0300
+# Generation: Sat, 21 Aug 2021 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -767,6 +767,7 @@ add list=__TOR_EXIT address=62.210.37.82
 add list=__TOR_EXIT address=198.54.128.61
 add list=__TOR_EXIT address=101.99.90.171
 add list=__TOR_EXIT address=192.195.80.10
+add list=__TOR_EXIT address=198.167.206.151
 add list=__TOR_EXIT address=198.167.206.244
 add list=__TOR_EXIT address=198.167.206.201
 add list=__TOR_EXIT address=198.167.206.234
@@ -1044,6 +1045,7 @@ add list=__TOR_EXIT address=185.165.169.18
 add list=__TOR_EXIT address=185.100.87.136
 add list=__TOR_EXIT address=135.125.137.236
 add list=__TOR_EXIT address=107.189.4.203
+add list=__TOR_EXIT address=189.131.248.41
 add list=__TOR_EXIT address=189.132.7.201
 add list=__TOR_EXIT address=189.132.8.121
 add list=__TOR_EXIT address=189.131.251.94
@@ -1222,8 +1224,8 @@ add list=__TOR_EXIT address=107.189.29.86
 add list=__TOR_EXIT address=45.61.186.92
 add list=__TOR_EXIT address=5.181.14.243
 add list=__TOR_EXIT address=107.189.12.238
-add list=__TOR_EXIT address=192.135.110.251
 add list=__TOR_EXIT address=184.105.234.37
+add list=__TOR_EXIT address=192.135.110.251
 add list=__TOR_EXIT address=24.50.224.216
 add list=__TOR_EXIT address=184.105.234.214
 add list=__TOR_EXIT address=147.135.115.31
@@ -1250,4 +1252,13 @@ add list=__TOR_EXIT address=107.189.29.40
 add list=__TOR_EXIT address=185.191.124.143
 add list=__TOR_EXIT address=143.176.22.203
 add list=__TOR_EXIT address=151.216.14.94
+add list=__TOR_EXIT address=185.12.46.205
+add list=__TOR_EXIT address=185.12.46.206
+add list=__TOR_EXIT address=185.12.46.204
+add list=__TOR_EXIT address=185.12.46.203
+add list=__TOR_EXIT address=185.12.46.202
+add list=__TOR_EXIT address=194.62.42.97
+add list=__TOR_EXIT address=107.189.5.206
+add list=__TOR_EXIT address=151.216.10.52
+add list=__TOR_EXIT address=185.130.46.70
 
