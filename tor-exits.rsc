@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Sun, 29 Aug 2021 20:00:01 +0300
+# Generation: Mon, 30 Aug 2021 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -770,6 +770,7 @@ add list=__TOR_EXIT address=198.54.128.37
 add list=__TOR_EXIT address=198.54.128.61
 add list=__TOR_EXIT address=101.99.90.171
 add list=__TOR_EXIT address=192.195.80.10
+add list=__TOR_EXIT address=198.167.206.167
 add list=__TOR_EXIT address=198.167.206.226
 add list=__TOR_EXIT address=198.167.206.182
 add list=__TOR_EXIT address=198.167.206.187
@@ -1061,6 +1062,7 @@ add list=__TOR_EXIT address=185.165.169.18
 add list=__TOR_EXIT address=185.100.87.136
 add list=__TOR_EXIT address=135.125.137.236
 add list=__TOR_EXIT address=107.189.4.203
+add list=__TOR_EXIT address=189.131.201.120
 add list=__TOR_EXIT address=189.131.255.38
 add list=__TOR_EXIT address=189.132.2.121
 add list=__TOR_EXIT address=189.132.13.159
@@ -1247,6 +1249,8 @@ add list=__TOR_EXIT address=107.189.29.86
 add list=__TOR_EXIT address=45.61.186.92
 add list=__TOR_EXIT address=5.181.14.243
 add list=__TOR_EXIT address=107.189.12.238
+add list=__TOR_EXIT address=139.60.176.228
+add list=__TOR_EXIT address=24.50.224.24
 add list=__TOR_EXIT address=184.105.234.37
 add list=__TOR_EXIT address=192.135.110.251
 add list=__TOR_EXIT address=24.50.224.216
@@ -1267,6 +1271,7 @@ add list=__TOR_EXIT address=31.7.60.237
 add list=__TOR_EXIT address=107.189.10.150
 add list=__TOR_EXIT address=31.7.60.236
 add list=__TOR_EXIT address=92.245.194.234
+add list=__TOR_EXIT address=87.123.62.35
 add list=__TOR_EXIT address=87.122.216.176
 add list=__TOR_EXIT address=87.123.52.150
 add list=__TOR_EXIT address=87.122.217.221
@@ -1327,4 +1332,6 @@ add list=__TOR_EXIT address=116.193.190.36
 add list=__TOR_EXIT address=104.244.75.88
 add list=__TOR_EXIT address=5.230.28.92
 add list=__TOR_EXIT address=91.90.120.186
+add list=__TOR_EXIT address=47.254.148.254
+add list=__TOR_EXIT address=78.176.245.104
 
