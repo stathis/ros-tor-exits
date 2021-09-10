@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Thu, 09 Sep 2021 20:00:01 +0300
+# Generation: Fri, 10 Sep 2021 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -401,8 +401,10 @@ add list=__TOR_EXIT address=23.129.64.130
 add list=__TOR_EXIT address=23.129.64.131
 add list=__TOR_EXIT address=23.129.64.136
 add list=__TOR_EXIT address=23.129.64.153
+add list=__TOR_EXIT address=217.79.179.7
 add list=__TOR_EXIT address=5.199.130.188
 add list=__TOR_EXIT address=134.249.106.21
+add list=__TOR_EXIT address=185.38.175.130
 add list=__TOR_EXIT address=185.38.175.71
 add list=__TOR_EXIT address=176.58.89.182
 add list=__TOR_EXIT address=209.141.53.10
@@ -468,6 +470,7 @@ add list=__TOR_EXIT address=185.220.102.253
 add list=__TOR_EXIT address=185.220.102.254
 add list=__TOR_EXIT address=185.220.102.249
 add list=__TOR_EXIT address=185.220.102.248
+add list=__TOR_EXIT address=185.38.175.131
 add list=__TOR_EXIT address=185.38.175.72
 add list=__TOR_EXIT address=74.82.47.194
 add list=__TOR_EXIT address=45.141.159.63
@@ -773,6 +776,7 @@ add list=__TOR_EXIT address=198.54.128.37
 add list=__TOR_EXIT address=198.54.128.61
 add list=__TOR_EXIT address=101.99.90.171
 add list=__TOR_EXIT address=192.195.80.10
+add list=__TOR_EXIT address=198.167.206.134
 add list=__TOR_EXIT address=198.167.206.131
 add list=__TOR_EXIT address=198.167.206.218
 add list=__TOR_EXIT address=198.167.206.149
@@ -1397,4 +1401,12 @@ add list=__TOR_EXIT address=155.138.218.251
 add list=__TOR_EXIT address=31.42.186.101
 add list=__TOR_EXIT address=176.119.30.92
 add list=__TOR_EXIT address=194.58.122.184
+add list=__TOR_EXIT address=185.112.144.68
+add list=__TOR_EXIT address=141.95.18.225
+add list=__TOR_EXIT address=185.82.126.222
+add list=__TOR_EXIT address=94.140.114.174
+add list=__TOR_EXIT address=107.189.12.148
+add list=__TOR_EXIT address=209.141.60.19
+add list=__TOR_EXIT address=104.244.76.127
+add list=__TOR_EXIT address=141.95.18.207
 
