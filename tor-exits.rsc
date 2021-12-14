@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 13 Dec 2021 20:00:01 +0200
+# Generation: Tue, 14 Dec 2021 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=176.10.99.200
@@ -550,6 +550,7 @@ add list=__TOR_EXIT address=176.126.253.190
 add list=__TOR_EXIT address=45.121.147.218
 add list=__TOR_EXIT address=198.54.128.94
 add list=__TOR_EXIT address=192.195.80.10
+add list=__TOR_EXIT address=198.167.206.246
 add list=__TOR_EXIT address=198.167.206.200
 add list=__TOR_EXIT address=198.167.206.253
 add list=__TOR_EXIT address=198.167.206.241
@@ -1227,6 +1228,7 @@ add list=__TOR_EXIT address=185.100.87.174
 add list=__TOR_EXIT address=194.32.107.51
 add list=__TOR_EXIT address=194.85.248.174
 add list=__TOR_EXIT address=95.214.54.97
+add list=__TOR_EXIT address=156.146.63.137
 add list=__TOR_EXIT address=156.146.63.21
 add list=__TOR_EXIT address=176.125.230.28
 add list=__TOR_EXIT address=185.157.162.201
@@ -1503,4 +1505,7 @@ add list=__TOR_EXIT address=192.53.162.179
 add list=__TOR_EXIT address=45.61.187.94
 add list=__TOR_EXIT address=107.189.30.70
 add list=__TOR_EXIT address=45.61.139.90
+add list=__TOR_EXIT address=45.154.168.39
+add list=__TOR_EXIT address=152.70.161.130
+add list=__TOR_EXIT address=94.140.114.193
 
