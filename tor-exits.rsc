@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Sat, 07 May 2022 20:00:01 +0300
+# Generation: Sun, 08 May 2022 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=93.95.230.253
@@ -769,6 +769,7 @@ add list=__TOR_EXIT address=185.107.47.171
 add list=__TOR_EXIT address=107.189.12.7
 add list=__TOR_EXIT address=185.82.126.31
 add list=__TOR_EXIT address=5.255.99.147
+add list=__TOR_EXIT address=184.75.221.115
 add list=__TOR_EXIT address=104.254.90.243
 add list=__TOR_EXIT address=5.255.98.198
 add list=__TOR_EXIT address=199.195.254.81
@@ -955,6 +956,7 @@ add list=__TOR_EXIT address=23.128.248.90
 add list=__TOR_EXIT address=199.249.230.122
 add list=__TOR_EXIT address=23.128.248.108
 add list=__TOR_EXIT address=107.189.11.153
+add list=__TOR_EXIT address=189.147.251.161
 add list=__TOR_EXIT address=189.147.137.83
 add list=__TOR_EXIT address=156.146.34.193
 add list=__TOR_EXIT address=199.249.230.77
@@ -1211,6 +1213,7 @@ add list=__TOR_EXIT address=199.249.230.184
 add list=__TOR_EXIT address=107.189.5.249
 add list=__TOR_EXIT address=172.81.131.168
 add list=__TOR_EXIT address=185.4.132.135
+add list=__TOR_EXIT address=61.230.166.85
 add list=__TOR_EXIT address=61.230.163.91
 add list=__TOR_EXIT address=107.189.12.183
 add list=__TOR_EXIT address=107.189.31.102
@@ -1307,4 +1310,16 @@ add list=__TOR_EXIT address=5.2.69.54
 add list=__TOR_EXIT address=5.2.69.38
 add list=__TOR_EXIT address=5.2.69.28
 add list=__TOR_EXIT address=5.2.69.41
+add list=__TOR_EXIT address=107.189.7.88
+add list=__TOR_EXIT address=5.2.69.55
+add list=__TOR_EXIT address=185.38.175.132
+add list=__TOR_EXIT address=86.41.66.202
+add list=__TOR_EXIT address=5.255.97.176
+add list=__TOR_EXIT address=20.40.66.200
+add list=__TOR_EXIT address=71.19.150.254
+add list=__TOR_EXIT address=146.190.234.0
+add list=__TOR_EXIT address=107.189.1.175
+add list=__TOR_EXIT address=87.121.52.47
+add list=__TOR_EXIT address=194.26.192.172
+add list=__TOR_EXIT address=45.154.98.179
 
