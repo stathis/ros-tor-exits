@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Sat, 04 Jun 2022 20:00:01 +0300
+# Generation: Sun, 05 Jun 2022 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=93.95.230.253
@@ -811,6 +811,7 @@ add list=__TOR_EXIT address=198.54.128.62
 add list=__TOR_EXIT address=185.227.68.78
 add list=__TOR_EXIT address=45.79.177.190
 add list=__TOR_EXIT address=185.220.101.62
+add list=__TOR_EXIT address=23.128.248.66
 add list=__TOR_EXIT address=185.220.101.4
 add list=__TOR_EXIT address=185.220.102.7
 add list=__TOR_EXIT address=89.58.16.21
@@ -1083,6 +1084,7 @@ add list=__TOR_EXIT address=23.154.177.10
 add list=__TOR_EXIT address=199.249.230.184
 add list=__TOR_EXIT address=172.81.131.168
 add list=__TOR_EXIT address=185.4.132.135
+add list=__TOR_EXIT address=61.230.167.238
 add list=__TOR_EXIT address=61.230.160.58
 add list=__TOR_EXIT address=107.189.12.183
 add list=__TOR_EXIT address=107.189.31.102
@@ -1233,6 +1235,7 @@ add list=__TOR_EXIT address=41.77.138.170
 add list=__TOR_EXIT address=45.9.150.49
 add list=__TOR_EXIT address=185.107.195.109
 add list=__TOR_EXIT address=188.68.42.230
+add list=__TOR_EXIT address=104.244.78.213
 add list=__TOR_EXIT address=64.227.179.188
 add list=__TOR_EXIT address=89.187.169.58
 add list=__TOR_EXIT address=128.199.26.78
@@ -1319,6 +1322,7 @@ add list=__TOR_EXIT address=185.51.76.203
 add list=__TOR_EXIT address=195.95.132.104
 add list=__TOR_EXIT address=45.150.108.227
 add list=__TOR_EXIT address=23.133.8.3
+add list=__TOR_EXIT address=212.8.253.145
 add list=__TOR_EXIT address=51.195.166.202
 add list=__TOR_EXIT address=195.144.21.87
 add list=__TOR_EXIT address=188.166.60.251
@@ -1347,4 +1351,7 @@ add list=__TOR_EXIT address=107.189.31.134
 add list=__TOR_EXIT address=103.15.226.146
 add list=__TOR_EXIT address=209.141.34.239
 add list=__TOR_EXIT address=35.238.206.221
+add list=__TOR_EXIT address=185.220.101.86
+add list=__TOR_EXIT address=185.220.101.87
+add list=__TOR_EXIT address=138.199.18.71
 
