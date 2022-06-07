@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 06 Jun 2022 20:00:01 +0300
+# Generation: Tue, 07 Jun 2022 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=93.95.230.253
@@ -553,6 +553,8 @@ add list=__TOR_EXIT address=162.247.74.213
 add list=__TOR_EXIT address=198.98.48.175
 add list=__TOR_EXIT address=185.220.103.120
 add list=__TOR_EXIT address=162.247.74.216
+add list=__TOR_EXIT address=181.214.218.40
+add list=__TOR_EXIT address=191.101.31.23
 add list=__TOR_EXIT address=191.101.31.46
 add list=__TOR_EXIT address=191.101.217.29
 add list=__TOR_EXIT address=141.95.18.225
@@ -700,6 +702,7 @@ add list=__TOR_EXIT address=185.107.47.171
 add list=__TOR_EXIT address=107.189.12.7
 add list=__TOR_EXIT address=185.82.126.31
 add list=__TOR_EXIT address=5.255.99.147
+add list=__TOR_EXIT address=184.75.221.179
 add list=__TOR_EXIT address=184.75.221.171
 add list=__TOR_EXIT address=199.195.254.81
 add list=__TOR_EXIT address=23.128.248.44
@@ -866,6 +869,8 @@ add list=__TOR_EXIT address=23.128.248.90
 add list=__TOR_EXIT address=199.249.230.122
 add list=__TOR_EXIT address=23.128.248.108
 add list=__TOR_EXIT address=107.189.11.153
+add list=__TOR_EXIT address=189.147.249.156
+add list=__TOR_EXIT address=189.147.252.192
 add list=__TOR_EXIT address=189.147.183.213
 add list=__TOR_EXIT address=156.146.34.193
 add list=__TOR_EXIT address=199.249.230.77
@@ -1361,5 +1366,13 @@ add list=__TOR_EXIT address=138.199.18.71
 add list=__TOR_EXIT address=103.47.17.104
 add list=__TOR_EXIT address=23.239.29.159
 add list=__TOR_EXIT address=222.255.119.43
+add list=__TOR_EXIT address=103.47.17.218
+add list=__TOR_EXIT address=103.47.19.91
+add list=__TOR_EXIT address=103.47.19.188
 add list=__TOR_EXIT address=51.195.166.203
+add list=__TOR_EXIT address=45.9.149.155
+add list=__TOR_EXIT address=185.183.157.127
+add list=__TOR_EXIT address=107.189.28.157
+add list=__TOR_EXIT address=216.250.116.129
+add list=__TOR_EXIT address=5.255.99.205
 
