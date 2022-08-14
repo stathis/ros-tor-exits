@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Sat, 13 Aug 2022 20:00:01 +0300
+# Generation: Sun, 14 Aug 2022 20:00:01 +0300
 #
 ip firewall address-list
 
