@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Sun, 04 Sep 2022 20:00:01 +0300
+# Generation: Mon, 05 Sep 2022 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=93.95.230.253
@@ -219,6 +219,7 @@ add list=__TOR_EXIT address=37.123.163.58
 add list=__TOR_EXIT address=104.149.155.226
 add list=__TOR_EXIT address=83.137.158.9
 add list=__TOR_EXIT address=185.244.192.184
+add list=__TOR_EXIT address=188.68.32.101
 add list=__TOR_EXIT address=198.98.60.19
 add list=__TOR_EXIT address=185.220.102.6
 add list=__TOR_EXIT address=185.220.101.80
@@ -444,6 +445,7 @@ add list=__TOR_EXIT address=162.247.74.213
 add list=__TOR_EXIT address=198.98.48.175
 add list=__TOR_EXIT address=185.220.103.120
 add list=__TOR_EXIT address=162.247.74.216
+add list=__TOR_EXIT address=156.146.63.160
 add list=__TOR_EXIT address=191.101.31.29
 add list=__TOR_EXIT address=141.95.18.225
 add list=__TOR_EXIT address=209.141.51.30
@@ -560,6 +562,7 @@ add list=__TOR_EXIT address=185.107.47.171
 add list=__TOR_EXIT address=107.189.12.7
 add list=__TOR_EXIT address=185.82.126.31
 add list=__TOR_EXIT address=5.255.99.147
+add list=__TOR_EXIT address=184.75.223.227
 add list=__TOR_EXIT address=137.63.71.51
 add list=__TOR_EXIT address=184.75.221.195
 add list=__TOR_EXIT address=185.228.138.240
@@ -678,6 +681,7 @@ add list=__TOR_EXIT address=194.32.107.60
 add list=__TOR_EXIT address=5.45.98.12
 add list=__TOR_EXIT address=199.249.230.122
 add list=__TOR_EXIT address=188.68.42.139
+add list=__TOR_EXIT address=189.147.164.204
 add list=__TOR_EXIT address=189.147.254.103
 add list=__TOR_EXIT address=189.147.183.17
 add list=__TOR_EXIT address=189.147.237.143
@@ -1436,4 +1440,7 @@ add list=__TOR_EXIT address=45.141.215.92
 add list=__TOR_EXIT address=185.125.171.199
 add list=__TOR_EXIT address=5.182.39.111
 add list=__TOR_EXIT address=173.82.188.96
+add list=__TOR_EXIT address=5.255.104.239
+add list=__TOR_EXIT address=192.9.166.36
+add list=__TOR_EXIT address=80.78.26.147
 
