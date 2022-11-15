@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 14 Nov 2022 20:00:01 +0200
+# Generation: Tue, 15 Nov 2022 20:00:02 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=93.95.230.253
@@ -226,6 +226,7 @@ add list=__TOR_EXIT address=89.236.112.100
 add list=__TOR_EXIT address=185.243.218.27
 add list=__TOR_EXIT address=204.194.29.4
 add list=__TOR_EXIT address=95.143.193.125
+add list=__TOR_EXIT address=178.31.134.176
 add list=__TOR_EXIT address=178.31.132.167
 add list=__TOR_EXIT address=178.31.13.221
 add list=__TOR_EXIT address=46.195.217.155
@@ -1053,6 +1054,8 @@ add list=__TOR_EXIT address=89.58.54.46
 add list=__TOR_EXIT address=23.137.249.150
 add list=__TOR_EXIT address=23.137.249.227
 add list=__TOR_EXIT address=23.137.250.191
+add list=__TOR_EXIT address=146.70.134.10
+add list=__TOR_EXIT address=146.70.126.220
 add list=__TOR_EXIT address=138.199.6.205
 add list=__TOR_EXIT address=146.70.126.212
 add list=__TOR_EXIT address=146.70.126.180
@@ -1068,7 +1071,6 @@ add list=__TOR_EXIT address=146.70.126.239
 add list=__TOR_EXIT address=146.70.134.82
 add list=__TOR_EXIT address=146.70.126.179
 add list=__TOR_EXIT address=138.199.6.202
-add list=__TOR_EXIT address=146.70.134.10
 add list=__TOR_EXIT address=138.199.6.228
 add list=__TOR_EXIT address=91.208.75.153
 add list=__TOR_EXIT address=172.107.227.246
@@ -1088,6 +1090,7 @@ add list=__TOR_EXIT address=144.172.118.85
 add list=__TOR_EXIT address=144.172.118.84
 add list=__TOR_EXIT address=144.172.118.92
 add list=__TOR_EXIT address=23.137.251.61
+add list=__TOR_EXIT address=80.79.116.50
 add list=__TOR_EXIT address=91.199.166.186
 add list=__TOR_EXIT address=188.214.88.82
 add list=__TOR_EXIT address=188.68.56.86
@@ -1303,4 +1306,6 @@ add list=__TOR_EXIT address=212.227.206.229
 add list=__TOR_EXIT address=51.81.199.17
 add list=__TOR_EXIT address=37.48.120.196
 add list=__TOR_EXIT address=87.118.96.154
+add list=__TOR_EXIT address=64.113.32.29
+add list=__TOR_EXIT address=172.105.19.67
 
