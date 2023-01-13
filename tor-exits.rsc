@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Thu, 12 Jan 2023 20:00:01 +0200
+# Generation: Fri, 13 Jan 2023 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=185.244.195.103
@@ -181,6 +181,7 @@ add list=__TOR_EXIT address=89.236.112.100
 add list=__TOR_EXIT address=185.243.218.27
 add list=__TOR_EXIT address=204.194.29.4
 add list=__TOR_EXIT address=95.143.193.125
+add list=__TOR_EXIT address=178.31.55.32
 add list=__TOR_EXIT address=79.102.2.27
 add list=__TOR_EXIT address=46.195.244.168
 add list=__TOR_EXIT address=178.31.2.124
@@ -526,6 +527,7 @@ add list=__TOR_EXIT address=185.220.101.60
 add list=__TOR_EXIT address=194.88.143.66
 add list=__TOR_EXIT address=199.249.230.145
 add list=__TOR_EXIT address=199.249.230.75
+add list=__TOR_EXIT address=83.97.20.151
 add list=__TOR_EXIT address=89.234.157.254
 add list=__TOR_EXIT address=5.45.107.107
 add list=__TOR_EXIT address=185.220.101.46
@@ -852,6 +854,7 @@ add list=__TOR_EXIT address=5.255.101.10
 add list=__TOR_EXIT address=92.87.6.117
 add list=__TOR_EXIT address=94.140.115.0
 add list=__TOR_EXIT address=37.228.129.104
+add list=__TOR_EXIT address=185.248.101.215
 add list=__TOR_EXIT address=81.16.33.42
 add list=__TOR_EXIT address=185.112.147.10
 add list=__TOR_EXIT address=185.130.46.141
@@ -1312,4 +1315,16 @@ add list=__TOR_EXIT address=203.28.246.141
 add list=__TOR_EXIT address=164.92.218.139
 add list=__TOR_EXIT address=94.177.9.131
 add list=__TOR_EXIT address=185.193.125.42
+add list=__TOR_EXIT address=5.79.66.19
+add list=__TOR_EXIT address=151.80.148.159
+add list=__TOR_EXIT address=80.67.167.81
+add list=__TOR_EXIT address=37.46.113.155
+add list=__TOR_EXIT address=94.75.225.81
+add list=__TOR_EXIT address=185.247.226.98
+add list=__TOR_EXIT address=109.206.243.145
+add list=__TOR_EXIT address=92.87.6.107
+add list=__TOR_EXIT address=194.26.192.142
+add list=__TOR_EXIT address=5.255.103.7
+add list=__TOR_EXIT address=5.181.80.119
+add list=__TOR_EXIT address=176.10.119.213
 
