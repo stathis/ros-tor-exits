@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Thu, 02 Mar 2023 20:00:01 +0200
+# Generation: Fri, 03 Mar 2023 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=185.244.195.103
@@ -172,6 +172,7 @@ add list=__TOR_EXIT address=89.236.112.100
 add list=__TOR_EXIT address=185.243.218.27
 add list=__TOR_EXIT address=204.194.29.4
 add list=__TOR_EXIT address=95.143.193.125
+add list=__TOR_EXIT address=178.30.145.24
 add list=__TOR_EXIT address=46.195.230.28
 add list=__TOR_EXIT address=79.102.241.163
 add list=__TOR_EXIT address=178.31.28.5
@@ -293,6 +294,7 @@ add list=__TOR_EXIT address=163.172.41.228
 add list=__TOR_EXIT address=45.134.225.36
 add list=__TOR_EXIT address=107.189.10.143
 add list=__TOR_EXIT address=77.81.247.72
+add list=__TOR_EXIT address=194.233.84.228
 add list=__TOR_EXIT address=185.194.142.241
 add list=__TOR_EXIT address=199.249.230.108
 add list=__TOR_EXIT address=162.247.74.201
@@ -895,6 +897,7 @@ add list=__TOR_EXIT address=146.59.233.33
 add list=__TOR_EXIT address=5.255.105.46
 add list=__TOR_EXIT address=172.81.131.139
 add list=__TOR_EXIT address=185.100.87.129
+add list=__TOR_EXIT address=75.63.67.34
 add list=__TOR_EXIT address=75.63.67.33
 add list=__TOR_EXIT address=45.9.150.103
 add list=__TOR_EXIT address=46.182.21.250
@@ -1230,6 +1233,7 @@ add list=__TOR_EXIT address=79.137.202.83
 add list=__TOR_EXIT address=92.246.84.133
 add list=__TOR_EXIT address=109.206.243.145
 add list=__TOR_EXIT address=107.189.7.33
+add list=__TOR_EXIT address=80.78.26.148
 add list=__TOR_EXIT address=23.137.249.143
 add list=__TOR_EXIT address=23.137.249.185
 add list=__TOR_EXIT address=23.184.48.128
@@ -1435,4 +1439,8 @@ add list=__TOR_EXIT address=45.33.7.136
 add list=__TOR_EXIT address=109.248.150.45
 add list=__TOR_EXIT address=109.248.150.44
 add list=__TOR_EXIT address=109.248.150.36
+add list=__TOR_EXIT address=107.189.8.45
+add list=__TOR_EXIT address=212.73.134.158
+add list=__TOR_EXIT address=51.79.209.48
+add list=__TOR_EXIT address=78.109.24.3
 
