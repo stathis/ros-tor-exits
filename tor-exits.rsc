@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Fri, 05 May 2023 20:00:02 +0300
+# Generation: Sat, 06 May 2023 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=45.61.185.83
@@ -167,10 +167,10 @@ add list=__TOR_EXIT address=89.236.112.100
 add list=__TOR_EXIT address=185.243.218.27
 add list=__TOR_EXIT address=204.194.29.4
 add list=__TOR_EXIT address=95.143.193.125
+add list=__TOR_EXIT address=79.102.188.115
 add list=__TOR_EXIT address=79.102.60.3
 add list=__TOR_EXIT address=46.195.244.3
 add list=__TOR_EXIT address=178.30.87.183
-add list=__TOR_EXIT address=79.102.63.196
 add list=__TOR_EXIT address=185.220.101.11
 add list=__TOR_EXIT address=109.123.230.23
 add list=__TOR_EXIT address=185.220.101.15
@@ -334,6 +334,7 @@ add list=__TOR_EXIT address=199.249.230.100
 add list=__TOR_EXIT address=5.2.72.110
 add list=__TOR_EXIT address=185.220.101.52
 add list=__TOR_EXIT address=185.10.68.195
+add list=__TOR_EXIT address=45.141.215.235
 add list=__TOR_EXIT address=5.45.102.68
 add list=__TOR_EXIT address=185.100.87.174
 add list=__TOR_EXIT address=178.17.174.14
@@ -1712,10 +1713,20 @@ add list=__TOR_EXIT address=51.158.115.62
 add list=__TOR_EXIT address=45.95.169.184
 add list=__TOR_EXIT address=45.95.169.225
 add list=__TOR_EXIT address=45.95.169.224
+add list=__TOR_EXIT address=177.30.64.241
 add list=__TOR_EXIT address=177.30.73.78
 add list=__TOR_EXIT address=172.107.94.193
 add list=__TOR_EXIT address=34.217.62.86
 add list=__TOR_EXIT address=13.127.5.47
 add list=__TOR_EXIT address=45.133.235.149
 add list=__TOR_EXIT address=62.133.45.2
+add list=__TOR_EXIT address=185.246.189.77
+add list=__TOR_EXIT address=103.154.55.7
+add list=__TOR_EXIT address=154.47.20.187
+add list=__TOR_EXIT address=135.125.233.127
+add list=__TOR_EXIT address=51.89.165.5
+add list=__TOR_EXIT address=140.99.148.82
+add list=__TOR_EXIT address=140.99.197.138
+add list=__TOR_EXIT address=31.12.94.42
+add list=__TOR_EXIT address=200.98.129.173
 
