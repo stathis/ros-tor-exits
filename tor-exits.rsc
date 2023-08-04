@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Thu, 03 Aug 2023 20:00:01 +0300
+# Generation: Fri, 04 Aug 2023 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=45.138.16.113
@@ -162,11 +162,9 @@ add list=__TOR_EXIT address=89.236.112.100
 add list=__TOR_EXIT address=185.243.218.27
 add list=__TOR_EXIT address=204.194.29.4
 add list=__TOR_EXIT address=95.143.193.125
+add list=__TOR_EXIT address=46.195.196.57
 add list=__TOR_EXIT address=79.102.223.147
 add list=__TOR_EXIT address=178.31.105.40
-add list=__TOR_EXIT address=178.31.108.101
-add list=__TOR_EXIT address=178.31.107.183
-add list=__TOR_EXIT address=79.102.168.208
 add list=__TOR_EXIT address=45.141.215.90
 add list=__TOR_EXIT address=107.189.7.144
 add list=__TOR_EXIT address=107.189.8.226
@@ -1935,8 +1933,7 @@ add list=__TOR_EXIT address=185.100.85.23
 add list=__TOR_EXIT address=141.98.11.62
 add list=__TOR_EXIT address=141.98.11.27
 add list=__TOR_EXIT address=80.78.24.162
-add list=__TOR_EXIT address=91.90.126.78
-add list=__TOR_EXIT address=77.81.142.238
+add list=__TOR_EXIT address=77.81.142.67
 add list=__TOR_EXIT address=5.34.182.5
 add list=__TOR_EXIT address=198.12.91.196
 add list=__TOR_EXIT address=46.165.243.36
@@ -2101,7 +2098,6 @@ add list=__TOR_EXIT address=5.255.127.222
 add list=__TOR_EXIT address=66.151.118.232
 add list=__TOR_EXIT address=66.151.118.83
 add list=__TOR_EXIT address=172.86.78.153
-add list=__TOR_EXIT address=195.85.114.167
 add list=__TOR_EXIT address=66.151.118.67
 add list=__TOR_EXIT address=66.151.118.231
 add list=__TOR_EXIT address=179.43.182.58
@@ -2124,4 +2120,9 @@ add list=__TOR_EXIT address=185.29.9.153
 add list=__TOR_EXIT address=185.29.9.152
 add list=__TOR_EXIT address=185.29.9.149
 add list=__TOR_EXIT address=185.29.9.148
+add list=__TOR_EXIT address=185.29.9.151
+add list=__TOR_EXIT address=95.179.183.185
+add list=__TOR_EXIT address=149.102.156.165
+add list=__TOR_EXIT address=200.25.27.112
+add list=__TOR_EXIT address=45.80.208.59
 
