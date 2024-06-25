@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 24 Jun 2024 20:00:01 +0300
+# Generation: Tue, 25 Jun 2024 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=171.25.193.25
@@ -535,7 +535,6 @@ add list=__TOR_EXIT address=185.220.101.178
 add list=__TOR_EXIT address=185.220.101.171
 add list=__TOR_EXIT address=185.220.101.176
 add list=__TOR_EXIT address=185.220.101.175
-add list=__TOR_EXIT address=185.220.101.172
 add list=__TOR_EXIT address=85.215.76.62
 add list=__TOR_EXIT address=185.247.184.105
 add list=__TOR_EXIT address=45.66.35.21
@@ -779,7 +778,6 @@ add list=__TOR_EXIT address=204.8.96.188
 add list=__TOR_EXIT address=204.8.96.184
 add list=__TOR_EXIT address=204.8.96.185
 add list=__TOR_EXIT address=204.8.96.187
-add list=__TOR_EXIT address=45.95.202.48
 add list=__TOR_EXIT address=200.122.181.2
 add list=__TOR_EXIT address=77.221.159.189
 add list=__TOR_EXIT address=77.221.159.192
@@ -900,9 +898,9 @@ add list=__TOR_EXIT address=108.181.124.143
 add list=__TOR_EXIT address=91.202.5.104
 add list=__TOR_EXIT address=185.107.70.56
 add list=__TOR_EXIT address=98.128.173.33
+add list=__TOR_EXIT address=178.30.125.36
 add list=__TOR_EXIT address=79.102.30.6
 add list=__TOR_EXIT address=178.30.76.250
-add list=__TOR_EXIT address=178.31.179.229
 add list=__TOR_EXIT address=54.36.209.254
 add list=__TOR_EXIT address=54.36.209.253
 add list=__TOR_EXIT address=66.78.40.147
@@ -1107,4 +1105,13 @@ add list=__TOR_EXIT address=176.121.81.51
 add list=__TOR_EXIT address=103.174.253.222
 add list=__TOR_EXIT address=185.243.218.46
 add list=__TOR_EXIT address=178.17.170.184
+add list=__TOR_EXIT address=185.241.208.81
+add list=__TOR_EXIT address=5.61.51.143
+add list=__TOR_EXIT address=38.97.116.244
+add list=__TOR_EXIT address=102.130.127.117
+add list=__TOR_EXIT address=84.19.182.20
+add list=__TOR_EXIT address=27.255.75.198
+add list=__TOR_EXIT address=147.45.116.145
+add list=__TOR_EXIT address=176.58.89.182
+add list=__TOR_EXIT address=161.35.129.51
 
