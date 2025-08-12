@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 11 Aug 2025 20:00:02 +0300
+# Generation: Tue, 12 Aug 2025 20:00:01 +0300
 #
 ip firewall address-list
 add list=__TOR_EXIT address=171.25.193.25
@@ -475,7 +475,6 @@ add list=__TOR_EXIT address=64.190.76.3
 add list=__TOR_EXIT address=88.80.26.3
 add list=__TOR_EXIT address=102.130.127.117
 add list=__TOR_EXIT address=209.141.45.81
-add list=__TOR_EXIT address=23.137.253.109
 add list=__TOR_EXIT address=94.16.115.121
 add list=__TOR_EXIT address=93.185.165.211
 add list=__TOR_EXIT address=146.59.231.4
@@ -584,7 +583,6 @@ add list=__TOR_EXIT address=92.246.84.133
 add list=__TOR_EXIT address=54.36.108.162
 add list=__TOR_EXIT address=125.253.56.119
 add list=__TOR_EXIT address=77.246.98.159
-add list=__TOR_EXIT address=152.53.133.14
 add list=__TOR_EXIT address=57.128.220.107
 add list=__TOR_EXIT address=178.20.55.182
 add list=__TOR_EXIT address=178.20.55.16
@@ -1007,7 +1005,6 @@ add list=__TOR_EXIT address=87.120.222.33
 add list=__TOR_EXIT address=88.151.192.2
 add list=__TOR_EXIT address=94.156.152.234
 add list=__TOR_EXIT address=177.149.145.208
-add list=__TOR_EXIT address=179.55.70.24
 add list=__TOR_EXIT address=177.93.140.66
 add list=__TOR_EXIT address=146.103.43.17
 add list=__TOR_EXIT address=45.95.169.102
@@ -1015,8 +1012,8 @@ add list=__TOR_EXIT address=164.132.59.224
 add list=__TOR_EXIT address=95.168.173.143
 add list=__TOR_EXIT address=45.9.168.43
 add list=__TOR_EXIT address=185.100.87.192
-add list=__TOR_EXIT address=151.217.169.242
 add list=__TOR_EXIT address=185.100.85.24
+add list=__TOR_EXIT address=151.217.169.242
 add list=__TOR_EXIT address=178.63.98.250
 add list=__TOR_EXIT address=185.100.87.250
 add list=__TOR_EXIT address=2.58.56.65
@@ -1126,4 +1123,5 @@ add list=__TOR_EXIT address=178.175.135.137
 add list=__TOR_EXIT address=46.246.92.37
 add list=__TOR_EXIT address=135.125.239.70
 add list=__TOR_EXIT address=185.252.232.218
+add list=__TOR_EXIT address=178.162.175.5
 
