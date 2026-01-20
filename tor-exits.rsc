@@ -2,7 +2,7 @@
 # TOR-EXIT List fopenr RouterOS
 # Author: Stathis Oureilidis <stathis@stathis.ch>
 #
-# Generation: Mon, 19 Jan 2026 20:00:01 +0200
+# Generation: Tue, 20 Jan 2026 20:00:01 +0200
 #
 ip firewall address-list
 add list=__TOR_EXIT address=171.25.193.25
@@ -65,6 +65,7 @@ add list=__TOR_EXIT address=185.195.71.244
 add list=__TOR_EXIT address=193.105.134.155
 add list=__TOR_EXIT address=192.42.116.191
 add list=__TOR_EXIT address=171.25.193.79
+add list=__TOR_EXIT address=124.198.131.121
 add list=__TOR_EXIT address=45.88.186.92
 add list=__TOR_EXIT address=195.176.3.24
 add list=__TOR_EXIT address=192.42.116.182
@@ -819,7 +820,6 @@ add list=__TOR_EXIT address=185.112.144.11
 add list=__TOR_EXIT address=45.9.156.105
 add list=__TOR_EXIT address=5.196.95.34
 add list=__TOR_EXIT address=66.78.40.146
-add list=__TOR_EXIT address=45.38.20.153
 add list=__TOR_EXIT address=81.181.104.22
 add list=__TOR_EXIT address=95.211.174.137
 add list=__TOR_EXIT address=185.220.100.255
@@ -1201,7 +1201,6 @@ add list=__TOR_EXIT address=5.255.111.52
 add list=__TOR_EXIT address=185.241.208.136
 add list=__TOR_EXIT address=82.221.139.190
 add list=__TOR_EXIT address=45.141.215.227
-add list=__TOR_EXIT address=45.80.158.111
 add list=__TOR_EXIT address=45.80.158.165
 add list=__TOR_EXIT address=23.134.88.61
 add list=__TOR_EXIT address=23.134.88.60
@@ -1227,12 +1226,7 @@ add list=__TOR_EXIT address=104.167.242.117
 add list=__TOR_EXIT address=104.167.242.118
 add list=__TOR_EXIT address=216.73.159.75
 add list=__TOR_EXIT address=185.126.114.110
-add list=__TOR_EXIT address=176.65.134.4
-add list=__TOR_EXIT address=176.65.134.24
-add list=__TOR_EXIT address=176.65.134.27
-add list=__TOR_EXIT address=176.65.134.15
 add list=__TOR_EXIT address=93.94.51.138
-add list=__TOR_EXIT address=176.65.134.28
 add list=__TOR_EXIT address=216.9.225.157
 add list=__TOR_EXIT address=38.135.25.140
 add list=__TOR_EXIT address=45.95.233.104
@@ -1310,9 +1304,9 @@ add list=__TOR_EXIT address=167.86.67.104
 add list=__TOR_EXIT address=80.97.49.239
 add list=__TOR_EXIT address=81.17.18.110
 add list=__TOR_EXIT address=45.137.99.182
+add list=__TOR_EXIT address=198.167.206.236
 add list=__TOR_EXIT address=198.167.206.193
 add list=__TOR_EXIT address=198.167.206.144
-add list=__TOR_EXIT address=198.167.206.134
 add list=__TOR_EXIT address=23.129.64.138
 add list=__TOR_EXIT address=194.32.107.231
 add list=__TOR_EXIT address=144.31.120.166
@@ -1364,11 +1358,18 @@ add list=__TOR_EXIT address=185.220.101.150
 add list=__TOR_EXIT address=45.95.169.119
 add list=__TOR_EXIT address=45.129.8.100
 add list=__TOR_EXIT address=38.225.209.82
-add list=__TOR_EXIT address=38.146.29.232
 add list=__TOR_EXIT address=195.47.238.177
 add list=__TOR_EXIT address=195.47.238.178
 add list=__TOR_EXIT address=185.225.69.225
 add list=__TOR_EXIT address=185.225.69.222
 add list=__TOR_EXIT address=78.159.131.103
 add list=__TOR_EXIT address=144.31.253.90
+add list=__TOR_EXIT address=205.185.113.112
+add list=__TOR_EXIT address=94.249.175.18
+add list=__TOR_EXIT address=131.72.79.38
+add list=__TOR_EXIT address=82.221.131.86
+add list=__TOR_EXIT address=64.56.71.104
+add list=__TOR_EXIT address=45.38.20.27
+add list=__TOR_EXIT address=93.113.25.160
+add list=__TOR_EXIT address=180.149.44.96
 
